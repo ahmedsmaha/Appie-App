@@ -1,0 +1,573 @@
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+  .col-sm-1 {
+    flex: 0 0 auto;
+    width: 8.33333333%;
+  }
+  .col-sm-2 {
+    flex: 0 0 auto;
+    width: 16.66666667%;
+  }
+  .col-sm-3 {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+  .col-sm-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+  .col-sm-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+  }
+  .col-sm-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .col-sm-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+  }
+  .col-sm-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+  }
+  .col-sm-9 {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+  .col-sm-10 {
+    flex: 0 0 auto;
+    width: 83.33333333%;
+  }
+  .col-sm-11 {
+    flex: 0 0 auto;
+    width: 91.66666667%;
+  }
+  .col-sm-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .appie-section-title .appie-title {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .header-nav-box .appie-btn-box .main-btn {
+    padding: 0 10px;
+    display: inline-block;
+  }
+  .appie-hero-content-2 .appie-title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .footer-copyright .apps-download-btn ul li {
+    margin-bottom: 0px;
+  }
+  .appie-download-content ul li a {
+    margin-bottom: 0px;
+  }
+  .appie-header-nav {
+    order: 2;
+  }
+  .appie-header-btn {
+    order: 3;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+  .col-md-1 {
+    flex: 0 0 auto;
+    width: 8.33333333%;
+  }
+  .col-md-2 {
+    flex: 0 0 auto;
+    width: 16.66666667%;
+  }
+  .col-md-3 {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+  .col-md-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+  .col-md-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+  }
+  .col-md-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .col-md-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+  }
+  .col-md-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+  }
+  .col-md-9 {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+  .col-md-10 {
+    flex: 0 0 auto;
+    width: 83.33333333%;
+  }
+  .col-md-11 {
+    flex: 0 0 auto;
+    width: 91.66666667%;
+  }
+  .col-md-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .header-nav-box .appie-btn-box {
+    padding-right: 50px;
+  }
+  .header-nav-box .appie-btn-box .main-btn {
+    padding: 0 30px;
+  }
+  .appie-hero-area-2 {
+    padding-top: 190px;
+    padding-bottom: 120px;
+  }
+  .appie-hero-area-2 .appie-hero-thumb-3 {
+    width: 40%;
+  }
+  .appie-hero-content-2 .appie-title {
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .appie-hero-content-2 .input-box {
+    width: 400px;
+  }
+  .appie-services-2-area .appie-section-title {
+    text-align: left;
+  }
+  .appie-services-2-area .appie-section-title.link {
+    text-align: right;
+  }
+  .appie-single-service-2 {
+    text-align: left;
+    padding: 48px;
+  }
+  .appie-features-box-item {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .appie-features-box-item .title {
+    font-size: 24px;
+  }
+  .appie-testimonial-2-box {
+    padding: 50px 30px;
+  }
+  .appie-testimonial-slider-2-item .item {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .appie-testimonial-slider-2-item .thumb {
+    margin-bottom: 30px;
+    margin-right: 0px;
+  }
+  .appie-testimonial-slider-2-item .content p {
+    font-size: 20px;
+  }
+  .footer-about-widget {
+    text-align: left;
+    padding-right: 70px;
+    margin-top: 30px;
+  }
+  .footer-navigation {
+    text-align: left;
+  }
+  .footer-widget-info {
+    text-align: left;
+  }
+  .appie-about-box {
+    padding: 70px;
+    text-align: left;
+  }
+  .appie-about-box .about-thumb {
+    position: static;
+    display: block;
+  }
+  .appie-about-content {
+    padding-right: 50px;
+  }
+  .appie-about-content .title {
+    font-size: 44px;
+    line-height: 54px;
+  }
+  .appie-video-player-item .content .title {
+    font-size: 30px;
+  }
+  .appie-download-area {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .appie-download-content .title {
+    font-size: 44px;
+    line-height: 54px;
+  }
+  .appie-sponser-box {
+    flex-wrap: nowrap;
+  }
+  .appie-sponser-box.item-2 .sponser-item {
+    margin: 30px 28px 0;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+  .col-lg-1 {
+    flex: 0 0 auto;
+    width: 8.33333333%;
+  }
+  .col-lg-2 {
+    flex: 0 0 auto;
+    width: 16.66666667%;
+  }
+  .col-lg-3 {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+  .col-lg-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+  .col-lg-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+  }
+  .col-lg-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .col-lg-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+  }
+  .col-lg-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+  }
+  .col-lg-9 {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+  .col-lg-10 {
+    flex: 0 0 auto;
+    width: 83.33333333%;
+  }
+  .col-lg-11 {
+    flex: 0 0 auto;
+    width: 91.66666667%;
+  }
+  .col-lg-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+
+  .appie-header-area.appie-header-2-area .appie-btn-box .toggle-btn {
+    display: none;
+  }
+  .header-nav-box .appie-btn-box {
+    padding-right: 30px;
+  }
+  .appie-header-main-menu {
+    display: block;
+  }
+  .appie-header-main-menu ul > li .sub-menu {
+    position: absolute;
+    top: 110%;
+    width: auto;
+    opacity: 0;
+    display: block;
+    visibility: hidden;
+    transition: all linear 0.3s;
+    box-shadow: 11px 10px 38px 0 rgba(46, 63, 99, 0.15);
+    padding: 15px 0;
+    text-align: left;
+    min-width: 200px;
+    max-width: 200px;
+  }
+  .appie-header-main-menu ul > li .sub-menu > li a {
+    padding: 0 20px;
+  }
+  .appie-hero-area-2 .appie-hero-thumb-3 {
+    width: 48%;
+  }
+  .appie-hero-content-2 .appie-title {
+    font-size: 50px;
+    line-height: 50px;
+  }
+
+  .appie-features-box-item {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .appie-features-box-item .title {
+    font-size: 20px;
+  }
+  .appie-features-thumb {
+    text-align: left;
+    margin-top: 0px;
+  }
+  .appie-testimonial-2-box {
+    padding: 50px;
+  }
+  .appie-testimonial-slider-2-item .item {
+    display: flex;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .appie-testimonial-slider-2-item .thumb {
+    min-width: 140px;
+    margin-right: 60px;
+  }
+  .appie-testimonial-slider-2-item .content {
+    text-align: left;
+  }
+  .pricing-one__single {
+    margin-bottom: 0px;
+  }
+
+  .footer-copyright {
+    display: flex;
+    text-align: left;
+  }
+  .footer-copyright .apps-download-btn {
+    margin-bottom: 0px;
+  }
+
+  .appie-about-box .about-thumb {
+    position: absolute;
+  }
+
+  .appie-about-content .title {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .appie-about-service .title {
+    font-size: 16px;
+  }
+
+  .appie-about-service p {
+    font-size: 14px;
+  }
+  .appie-counter-area {
+    padding-bottom: 190px;
+  }
+
+  .appie-single-counter {
+    margin-bottom: 0px;
+    padding: 20px;
+  }
+  .appie-video-player-item {
+    margin-bottom: 0px;
+  }
+  .appie-video-player-item .content {
+    padding-left: 30px;
+  }
+
+  .appie-download-area {
+    padding-top: 150px;
+    padding-bottom: 160px;
+  }
+
+  .appie-download-area::before {
+    display: block;
+    right: 0;
+    width: 550px;
+  }
+
+  .appie-download-content .title {
+    font-size: 36px;
+    line-height: 46px;
+  }
+
+  .appie-download-content ul li a {
+    padding-right: 20px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1200px;
+  }
+  .col-xl-1 {
+    flex: 0 0 auto;
+    width: 8.33333333%;
+  }
+  .col-xl-2 {
+    flex: 0 0 auto;
+    width: 16.66666667%;
+  }
+  .col-xl-3 {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+  .col-xl-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+  .col-xl-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+  }
+  .col-xl-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .col-xl-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+  }
+  .col-xl-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+  }
+  .col-xl-9 {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+  .col-xl-10 {
+    flex: 0 0 auto;
+    width: 83.33333333%;
+  }
+  .col-xl-11 {
+    flex: 0 0 auto;
+    width: 91.66666667%;
+  }
+  .col-xl-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .appie-section-title .appie-title {
+    font-size: 44px;
+    line-height: 54px;
+  }
+  .appie-section-title p {
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 11px;
+  }
+  .appie-hero-area-2 {
+    padding-top: 290px;
+    padding-bottom: 170px;
+  }
+  .appie-hero-area-2 .appie-hero-thumb-3 {
+    width: 60%;
+  }
+  .appie-hero-content-2 .appie-title {
+    font-size: 64px;
+    line-height: 70px;
+  }
+  .appie-features-box-item {
+    margin-left: 100px;
+    margin-right: 70px;
+  }
+  .appie-features-box-item .title {
+    font-size: 24px;
+  }
+  .appie-testimonial-2-box {
+    padding: 120px 140px;
+  }
+  .appie-about-content .title {
+    font-size: 44px;
+    line-height: 54px;
+  }
+  .appie-about-service .title {
+    font-size: 20px;
+  }
+  .appie-about-service p {
+    font-size: 15px;
+  }
+  .appie-single-counter {
+    padding: 30px;
+  }
+  .appie-video-player-item .content {
+    padding-left: 100px;
+  }
+  .appie-download-area::before {
+    right: 170px;
+    width: 860px;
+  }
+  .appie-download-content .title {
+    font-size: 44px;
+    line-height: 54px;
+  }
+  .appie-download-content ul li a {
+    padding-right: 40px;
+  }
+  .appie-header-main-menu ul > li {
+    margin-right: 30px;
+  }
+}
+@media (min-width: 1400px) {
+  .col-xxl-1 {
+    flex: 0 0 auto;
+    width: 8.33333333%;
+  }
+  .col-xxl-2 {
+    flex: 0 0 auto;
+    width: 16.66666667%;
+  }
+  .col-xxl-3 {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+  .col-xxl-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+  .col-xxl-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+  }
+  .col-xxl-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .col-xxl-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+  }
+  .col-xxl-8 {
+    flex: 0 0 auto;
+    width: 66.66666667%;
+  }
+  .col-xxl-9 {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+  .col-xxl-10 {
+    flex: 0 0 auto;
+    width: 83.33333333%;
+  }
+  .col-xxl-11 {
+    flex: 0 0 auto;
+    width: 91.66666667%;
+  }
+  .col-xxl-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+  .appie-header-main-menu ul > li .sub-menu {
+    min-width: 220px;
+    max-width: 220px;
+  }
+  .appie-header-main-menu ul > li .sub-menu > li a {
+    padding: 0 30px;
+  }
+  .appie-hero-area-2 .appie-hero-thumb-3 {
+    width: 48%;
+  }
+}
