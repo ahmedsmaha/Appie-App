@@ -9,10 +9,6 @@
     <a href="https://ahmedsmaha.github.io/Appie-App">
       Demo
     </a>
-    <span> | </span>
-    <a href="https://github.com/ahmedsmaha/Appie-App">
-      Solution
-    </a>
   </h3>
 </div>
 
