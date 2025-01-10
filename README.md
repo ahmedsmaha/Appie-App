@@ -19,8 +19,8 @@
   - [Useful resources](#useful-resources)
 - [Built with](#built-with)
 - [Features](#features)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Author](#author)
 
 ## Overview
 
